@@ -1,0 +1,13 @@
+.RectangleClass {
+  width: 200px;
+  height: 100px;
+  background-color: black;
+}
+
+.RectangleClass.blue {
+  background-color: blue;
+}
+
+.RectangleClass.red {
+  background-color: red;
+}
